@@ -1,0 +1,22 @@
+[{
+    "name": "Finance_Dashboard_ST",
+    "role": "DashBoard de Finanças para controle de gastos e investimentos",
+    "company": "Python, StreamLit, MatplotLib, Html, Css",
+    "email": "github.com/Daviqr1/Finance_Dashboard_ST",
+    "imageSrc": "Dashboard"
+  },
+  {
+    "name": "Fortune-Tiger-Telegram-Bot",
+    "role":"Bot de Telegram para sorteios de números da sorte do jogo de cassino online Fortune Tiger",
+    "company": "Python, TelegramAPI, Heroku, Insomnia",
+    "email": "github.com/Daviqr1/Fortune-Tiger-Telegram-Bot",
+    "imageSrc": "Tele"
+  },
+  {
+    "name": "Guia Norte Capixaba",
+    "role":"Site de turismo e prestação de serviços do norte do Espírito Santo",
+    "company": "Wordpress, Elementor, PHP, MySQL, CSS, HTML",
+    "email": "guianortecapixaba.com.br",
+    "imageSrc": "guia"
+  }
+]

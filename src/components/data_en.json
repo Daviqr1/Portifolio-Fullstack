@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Finance_Dashboard_ST",
+      "role": "Finance Dashboard for expense and investment control",
+      "company": "Python, StreamLit, MatplotLib, Html, Css",
+      "email": "github.com/Daviqr1/Finance_Dashboard_ST",
+      "imageSrc": "Dashboard"
+    },
+  {
+    "name": "Fortune-Tiger-Telegram-Bot",
+    "role":"Telegram bot for drawing lucky numbers from the online casino game Fortune Tiger",
+    "company": "Python, TelegramAPI, Heroku, Insomnia",
+    "email": "github.com/Daviqr1/Fortune-Tiger-Telegram-Bot",
+    "imageSrc": "Tele"
+  },
+  {
+    "name": "North Capixaba Guide",
+    "role":"Tourism and service provision website for the north of Espírito Santo",
+    "company": "Wordpress, Elementor, PHP, MySQL, CSS, HTML",
+    "email": "guianortecapixaba.com.br",
+    "imageSrc": "guia"
+  }
+  ]
+  
